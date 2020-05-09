@@ -43,7 +43,7 @@ html {
   font-size: 38px;
   letter-spacing: 4px;
   position: relative;
-  top: -5px;
+  top: 5px;
   font-weight: 500;
 }
 
@@ -604,7 +604,8 @@ html {
 }
 
 .saulogo {
-  height: 38px;
+  
+  height: 70px;
 }
 
 .heart{
